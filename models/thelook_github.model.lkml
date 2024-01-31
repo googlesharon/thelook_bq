@@ -5,3 +5,5 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 explore: users {}
 
 explore: order_items {}
+
+explore: dynamic_view {}
