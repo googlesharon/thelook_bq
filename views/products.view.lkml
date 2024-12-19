@@ -19,6 +19,7 @@ view: products {
   # This dimension will be called "Brand" in Explore.
 
   dimension: brand {
+    ##changes were de
     type: string
     sql: ${TABLE}.brand ;;
   }
